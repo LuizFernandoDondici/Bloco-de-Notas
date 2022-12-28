@@ -26,7 +26,7 @@ Será necessario criar um arquivo '.env' para configurar o Usuario e Senha do ba
 
 <br>
 
-# Endpoint
+# Endpoints
 
 ## POST - /notes
 
@@ -51,7 +51,7 @@ Exemplo de Resposta:
 
 <br>
 
-## GET - /notes <br> GET - /notes/:id <br> GET - /notes/title/:titulo
+## GET - /notes - /notes/:id - /notes/title/:titulo
 
 <br>
 
